@@ -1,5 +1,6 @@
 const input = require('readline-sync')
 
+
 (function(){
 	async function iniciar (){
 		const torrent = require('torrent-search-api')
